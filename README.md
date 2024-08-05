@@ -13,18 +13,22 @@ This project uses [Playwright](https://playwright.dev/) for end-to-end testing.
 
 Clone this repository to your local machine:
 
-```sh
-git clone https://github.com/archit38/AuomatedTests.git
+```
+git clone https://github.com/archit38/AutomatedTests.git
 cd AutomatedTests
+```
 
 ### 2. Install dependencies
 
+```
 npm install
+```
 
-###3. Run tests
+### 3. Run tests
 
+```
 npm test
-
+```
 ## Project Structure
 
 - tests/: This directory contains your Playwright test files.
